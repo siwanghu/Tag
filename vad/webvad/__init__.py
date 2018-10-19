@@ -1,0 +1,11 @@
+"""
+The flask application package.
+"""
+
+from flask import Flask
+app = Flask(__name__)
+
+from . import views
+from . import action
+from . import mono
+from . import vad
