@@ -19,11 +19,11 @@ import java.util.*;
 
 @Component
 public class OSSUrl {
-    private static final String ENDPOINT="oss-cn-beijing.aliyuncs.com";
-    private static final String ACCESSKEYID = "LTAI3D5FNNXlQ5gW";
-    private static final String ACCESSKEYSECRET = "helkPac04CjMCwGnRPHfs2JYlgTB3P";
-    private static final String BUCKETNAME = "ws-record-backup";
-    private static final String BUCKETSPLIT="ws-record-split";
+    private static final String ENDPOINT="";
+    private static final String ACCESSKEYID = "";
+    private static final String ACCESSKEYSECRET = "";
+    private static final String BUCKETNAME = "";
+    private static final String BUCKETSPLIT="";
 
     private static final String RAWWAVDIR="C:\\Users\\ylchen\\Desktop\\vad\\raw_wav";
     private static final String MONODIR="C:\\Users\\ylchen\\Desktop\\vad\\mono";
